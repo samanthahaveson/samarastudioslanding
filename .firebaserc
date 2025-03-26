@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "landing": "samara-studios"
+  },
+  "targets": {
+    "samara-studios": {
+      "hosting": {
+        "siteOne": [
+          "samara-studios"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
